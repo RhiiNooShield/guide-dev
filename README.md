@@ -2,4 +2,7 @@
 Ce projet contient des ressources utiles pour les nouveaux développeurs.
 
 ## Auteur
-Nom de l'étudiant B
+ROBERT Jean
+
+RAINGEARD Lucas
+
